@@ -14,7 +14,7 @@ This project scrapes doctor profile data from the **MAIIA** platform to build a 
 
 ### Results
 Output: A structured database with a doctors table containing:
-* Full name
+* ID
 * Address
 * Medical specialty
 * consultation availability
